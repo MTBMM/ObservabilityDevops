@@ -1,6 +1,7 @@
 
 # 🏠 Video Demo
-<video controls src="[SPEAKING] PART 1 - Google Tài liệu - Google Chrome 2024-12-01 06-22-45.mp4" title="Title"></video>
+     [Download Video Demo]([SPEAKING] PART 1 - Google Tài liệu - Google Chrome 2024-12-01 06-22-45.mp4)
+
 # 🏠 Architecture
 ![Project Architecture](Jaeger/images/architecture.gif)
 
